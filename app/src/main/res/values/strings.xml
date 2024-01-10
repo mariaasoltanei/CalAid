@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalAid</string>
+    <string name="labelEmail">Email</string>
+    <string name="labelPassword">Password</string>
+    <string name="labelLogin">Log in</string>
+    <string name="labelSignUp">Sign up</string>
+
+</resources>
